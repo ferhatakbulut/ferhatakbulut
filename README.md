@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### İletişim :
 
 [<img align="left" alt="ferhatakbulut.com" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/globe.gif" />][website]
-[<img align="left" alt="ferhatakbulut | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="ferhatakblt_ | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
-[<img align="left" alt="feratakblt | Twitter" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/twitter.gif" />][twitter]
+[<img align="left" alt="ferhatakbulut | LinkedIn" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/linkedin.gif" />][linkedin]
+[<img align="left" alt="ferhatakblt_ | Instagram" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/instagram.gif" />][instagram]
+[<img align="left" alt="feratakblt | Twitter" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/twitter.gif" />][twitter]
 
 [website]: https:ferhatakbulut.com
 [email]: mailto:ferhatakblt@gmail.com
