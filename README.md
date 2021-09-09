@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="ferhatakblt_ | Instagram" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/instagram.gif" />][instagram]
 [<img align="left" alt="feratakblt | Twitter" width="30px" src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut/main/icon/twitter.gif" />][twitter]
 
-[website]: https:ferhatakbulut.com
+[website]: https://www.ferhatakbulut.com
 [email]: mailto:ferhatakblt@gmail.com
 [instagram]: https://instagram.com/ferhatakblt_
 [twitter]: https://twitter.com/feratakblt
-[linkedin]: linkedin.com/in/ferhatakbulut
+[linkedin]: https://linkedin.com/in/ferhatakbulut
 
